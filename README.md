@@ -59,7 +59,7 @@ For future projects, I plan to focus on learning React to improve my front-end d
 ## Code by 
    Ravi Raj
 - Linkdin -[@Ravi Raj](https://www.linkedin.com/in/ravi-raj2505/) <br>
-- Instagram -[@aae_ayushh_](https://www.instagram.com/aae_ayushh_?igsh=MnJ4amt3ZzZpbHVy)
+- Instagram -[@aae_ayushh_](https://www.instagram.com/aae__ayushh__/?igsh=MnJ4amt3ZzZpbHVy#)
 
 ## challenge by
    Code Alpha
