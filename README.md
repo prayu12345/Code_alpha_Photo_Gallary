@@ -12,7 +12,6 @@ This is a solution to the Calculator app challenge by Code Alpha. Code Alpha cha
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Code by](#code-by)
 - [challenge by](#challenge-by)
 
@@ -28,8 +27,7 @@ Users should be able to:
 ### Screenshot
 ![Welcome Page](https://github.com/prayu12345/Code_alpha_Photo_Gallary/blob/main/Imagesss/Screenshot%202025-02-06%20144035.png)
 ![mobile - default theme](https://github.com/prayu12345/Code_alpha_Photo_Gallary/blob/main/Imagesss/Screenshot%202025-02-07%20205803.png)
-![tablet - light theme](https://github.com/prayu12345/Code_alpha_Photo_Gallary/blob/main/Imagesss/Screenshot%202025-02-06%20144152.png)
-![desktop - vivid theme](https://raw.githubusercontent.com/prayu12345/codealpha_calculator/2f0eed60b96093b5502d31bf7181a4abfd46ff7f/design/Screenshot%202025-01-22%20133811.png)
+![desktop - vivid theme](https://github.com/prayu12345/Code_alpha_Photo_Gallary/blob/main/Imagesss/Screenshot%202025-02-06%20144152.png)
 
 
 ### Links
